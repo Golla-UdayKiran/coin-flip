@@ -1,1 +1,1 @@
-<code>website</code>: https://golla-udaykiran.github.io/coin-flip
+<code>website</code>: https://coin-flip-play.vercel.app
